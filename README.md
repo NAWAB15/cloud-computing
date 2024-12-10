@@ -1,2 +1,3 @@
 # cloud-computing
 This practice focuses on key Git and GitHub version control skills that are essential for working on cloud projects. You'll learn how to work with branches, merge changes, resolve conflicts, and track progress using GitHub Issues.
+GitHub is a web-based platform for version control and collaboration that allows developers to manage, track, and control changes to their code. It is built on top of Git, a distributed version control system, and provides tools for team collaboration, issue tracking, pull requests, and continuous integration (CI/CD). GitHub is widely used for open-source and commercial software development projects.
